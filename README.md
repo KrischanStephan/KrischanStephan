@@ -17,35 +17,11 @@
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 
-
-<pre>
+<pre align="center">
 <h2 align="center">⚡ Languages & Tools & Abilities ⚡</h2>
 
 
+<code><img title="python" height="25" src="images/python.svg"></code> <code><img title="java" height="25" src="images/java.svg"></code> <code><img title="java" height="25" src="images/intellijidea.svg"></code> 
+
+
 </pre>
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
