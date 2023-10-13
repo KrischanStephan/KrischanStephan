@@ -21,7 +21,7 @@
 <h2 align="center">⚡ Languages & Tools & Abilities ⚡</h2>
 
 
-<code><img title="python" height="25" src="images/python.svg"></code> <code><img title="java" height="25" src="images/java.svg"></code> <code><img title="java" height="25" src="images/intellijidea.svg"></code> 
+<code><img title="python" height="25" src="images/python.svg"></code> <code><img title="java" height="25" src="images/java.svg"></code> <code><img title="intellij" height="25" src="images/intellijidea.svg"></code> 
 
 
 </pre>
