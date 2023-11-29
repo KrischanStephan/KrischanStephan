@@ -20,8 +20,8 @@
 <pre align="center">
 <h2 align="center">⚡ Languages & Tools & Abilities ⚡</h2>
 
-
-</code> <code><img title="java" height="25" src="images/java.svg"></code> <code><img title="intellij" height="25" src="images/intellij.svg"></code> <code><img title="python" height="25" src="images/python.svg">
-
+In Arbeit.
+<!-- </code> <code><img title="java" height="25" src="images/java.svg"></code> <code><img title="intellij" height="25" src="images/intellij.svg"></code> <code><img title="python" height="25" src="images/python.svg">
+ -->
 
 </pre>
